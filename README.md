@@ -1,1 +1,1 @@
-![Banner GitHub](./Banner-Copy.png)
+![Banner GitHub](Banner - Copy.png)
