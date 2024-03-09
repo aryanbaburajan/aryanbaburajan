@@ -1,1 +1,1 @@
-![Banner GitHub](BannerStretched.png)
+![Banner GitHub](banner.png)
